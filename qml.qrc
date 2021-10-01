@@ -1,0 +1,28 @@
+<RCC>
+    <qresource>
+        <file>resources/main.qml</file>
+        <file>resources/BoomBlock.qml</file>
+        <file>resources/PlayableScreen.qml</file>
+        <file>resources/OptionsScreen.qml</file>
+        <file>resources/ScoreboardsScreen.qml</file>
+        <file>resources/WinDialog.qml</file>
+        <file>resources/WinDialogWithInput.qml</file>
+        <file>resources/levels/concentrating.txt</file>
+        <file>resources/levels/cross.txt</file>
+        <file>resources/pics/main_title.png</file>
+        <file>resources/pics/screen1.png</file>
+        <file>resources/pics/screen2.png</file>
+        <file>resources/pics/screen3.png</file>
+        <file>resources/pics/screen4.png</file>
+        <file>resources/pics/noun_reload_185202.png</file>
+        <file>resources/pics/noun_back_275623.png</file>
+        <file>resources/pics/red_block.png</file>
+        <file>resources/pics/green_block.png</file>
+        <file>resources/pics/blue_block.png</file>
+        <file>resources/pics/yellow_block.png</file>
+        <file>resources/pics/red_specks.png</file>
+        <file>resources/pics/green_specks.png</file>
+        <file>resources/pics/blue_specks.png</file>
+        <file>resources/pics/yellow_specks.png</file>
+    </qresource>
+</RCC>
