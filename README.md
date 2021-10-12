@@ -15,3 +15,7 @@ Features:
  ![pic2](pictures_for_readme/pic2.png)
  ![pic3](pictures_for_readme/pic3.png)
  ![pic4](pictures_for_readme/pic4.png)
+
+Icons:
+ - reload by Anton Gajdosik from the Noun Project
+ - back by Xinh Studio from the Noun Project
